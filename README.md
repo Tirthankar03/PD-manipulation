@@ -23,8 +23,10 @@ uv sync
 
 uv run pdf_processor.py --input-dir "provide input directory path" --method clean --verbose
 
-E.g here: uv run pdf_processor.py --input-dir ./PD --method clean --verbose
-
+E.g here: 
+```bash
+uv run pdf_processor.py --input-dir ./PD --method clean --verbose
+```
 
 ## Dependencies
 

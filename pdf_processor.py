@@ -293,8 +293,8 @@ def replace_text_clean(input_path: Path, output_path: Path, old_text: str, new_t
         # Draw white rectangle
         page.draw_rect(expanded_rect, color=(1, 1, 1), fill=(1, 1, 1))
         
-        # Insert the new text at the exact position
-        point = fitz.Point(bbox[0], bbox[3] - 2)
+        # Insert the new text at the exact position (moved up slightly)
+        point = fitz.Point(bbox[0], bbox[3] - 5)
         page.insert_text(
             point,
             new_text,

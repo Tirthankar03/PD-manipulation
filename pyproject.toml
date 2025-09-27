@@ -4,4 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "PyPDF2>=3.0.0",
+    "reportlab>=4.0.0",
+    "pdfplumber>=0.9.0",
+    "fitz>=0.0.1.dev2",
+    "PyMuPDF>=1.23.0"
+]

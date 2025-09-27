@@ -236,3 +236,55 @@
 2025-09-27 07:10:11,657 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
 2025-09-27 07:10:11,657 - INFO - Processing complete: 3 successful, 0 failed
 2025-09-27 07:10:11,658 - INFO - PDF processing completed successfully!
+2025-09-27 07:15:06,628 - INFO - Starting PDF processing...
+2025-09-27 07:15:06,629 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:15:06,629 - INFO - Using clean processing method
+2025-09-27 07:15:06,630 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:15:06,631 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD\processed
+2025-09-27 07:15:06,645 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:15:06,665 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 07:15:06,683 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:15:06,706 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 07:15:06,714 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:15:06,730 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 07:15:06,730 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-27 07:15:06,731 - INFO - PDF processing completed successfully!
+2025-09-27 07:16:52,367 - INFO - Starting PDF processing...
+2025-09-27 07:16:52,367 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:16:52,368 - INFO - Using clean processing method
+2025-09-27 07:16:52,369 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:16:52,370 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD\processed
+2025-09-27 07:16:52,388 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:16:52,407 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 07:16:52,421 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:16:52,442 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 07:16:52,453 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:16:52,472 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 07:16:52,472 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-27 07:16:52,473 - INFO - PDF processing completed successfully!
+2025-09-27 07:19:53,661 - INFO - Starting PDF processing...
+2025-09-27 07:19:53,662 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:19:53,662 - INFO - Using clean processing method
+2025-09-27 07:19:53,664 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:19:53,664 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD\processed
+2025-09-27 07:19:53,681 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:19:53,698 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 07:19:53,711 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:19:53,741 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 07:19:53,751 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:19:53,768 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 07:19:53,769 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-27 07:19:53,770 - INFO - PDF processing completed successfully!
+2025-09-27 07:21:57,182 - INFO - Starting PDF processing...
+2025-09-27 07:21:57,182 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:21:57,182 - INFO - Using clean processing method
+2025-09-27 07:21:57,183 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD
+2025-09-27 07:21:57,183 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD\processed
+2025-09-27 07:21:57,193 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:21:57,206 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 07:21:57,215 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:21:57,230 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 07:21:57,236 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 07:21:57,247 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 07:21:57,247 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-27 07:21:57,250 - INFO - PDF processing completed successfully!

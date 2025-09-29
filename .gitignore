@@ -9,7 +9,6 @@ wheels/
 # Virtual environments
 .venv
 venv
-/PD - Copy
 /PD - Copy_processed
 pdf_processor.log
 /PD - Copy_processed_1

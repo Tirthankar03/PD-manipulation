@@ -829,3 +829,210 @@
 2025-09-27 15:13:36,172 - INFO - Copied non-PDF file: RE_ Video PD required.msg
 2025-09-27 15:13:36,204 - INFO - Processing complete: 250 successful, 0 failed
 2025-09-27 15:13:36,204 - INFO - PDF processing completed successfully!
+2025-09-29 14:03:03,655 - INFO - Starting PDF processing...
+2025-09-29 14:03:03,655 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD
+2025-09-29 14:03:03,656 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD
+2025-09-29 14:03:03,657 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD\processed
+2025-09-29 14:03:03,709 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:03:03,731 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:03:03,747 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:03:03,776 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:03:03,795 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:03:03,813 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:03:03,842 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:03:03,865 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:03:03,880 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:03:03,881 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-29 14:03:03,881 - INFO - PDF processing completed successfully!
+2025-09-29 14:03:51,666 - INFO - Starting PDF processing...
+2025-09-29 14:03:51,667 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD
+2025-09-29 14:03:51,668 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD
+2025-09-29 14:03:51,669 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD\processed
+2025-09-29 14:03:51,680 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:03:51,708 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:03:51,727 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:03:51,739 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:03:51,759 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:03:51,773 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:03:51,784 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:03:51,804 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:03:51,819 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:03:51,819 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-29 14:03:51,820 - INFO - PDF processing completed successfully!
+2025-09-29 14:07:07,622 - INFO - Starting PDF processing...
+2025-09-29 14:07:07,622 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD - Copy" --verbose
+2025-09-29 14:07:07,623 - ERROR - Fatal error: Directory F:\TVSCS\PD_manipulation\PD - Copy" --verbose does not exist
+2025-09-29 14:07:52,781 - INFO - Starting PDF processing...
+2025-09-29 14:07:52,781 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD - Copy
+2025-09-29 14:07:52,784 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD - Copy
+2025-09-29 14:07:52,786 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD - Copy\processed
+2025-09-29 14:07:52,805 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:07:52,831 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:07:52,849 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:07:52,891 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:07:52,909 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:07:52,926 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:07:52,956 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:07:52,981 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:07:52,998 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:07:52,999 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-29 14:07:53,000 - INFO - PDF processing completed successfully!
+2025-09-29 14:10:47,254 - INFO - Starting PDF processing...
+2025-09-29 14:10:47,255 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD - Copy
+2025-09-29 14:10:47,255 - INFO - Using clean processing method
+2025-09-29 14:10:47,258 - INFO - Found 12 PDF files in F:\TVSCS\PD_manipulation\PD - Copy and subdirectories
+2025-09-29 14:10:47,259 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD - Copy_processed
+2025-09-29 14:10:47,289 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,306 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:10:47,319 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,338 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:10:47,350 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,365 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:10:47,395 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,413 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:10:47,445 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,464 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:10:47,493 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,513 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:10:47,545 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,566 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:10:47,596 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,616 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:10:47,645 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,665 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:10:47,696 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,717 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:10:47,744 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,764 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:10:47,792 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:10:47,812 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:10:47,815 - INFO - Processing complete: 12 successful, 0 failed
+2025-09-29 14:10:47,816 - INFO - PDF processing completed successfully!
+2025-09-29 14:14:08,364 - INFO - Starting PDF processing...
+2025-09-29 14:14:08,365 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD - Copy
+2025-09-29 14:14:08,368 - INFO - Found 12 PDF files in F:\TVSCS\PD_manipulation\PD - Copy and subdirectories
+2025-09-29 14:14:08,369 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD - Copy_processed
+2025-09-29 14:14:08,381 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:08,407 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,425 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,436 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:08,457 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,474 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,491 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:08,514 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,529 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,538 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:08,555 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,569 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,580 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:08,601 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,614 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,628 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:08,645 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,659 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,669 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:08,686 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,698 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,708 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:08,724 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,737 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,748 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:08,763 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,775 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,786 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:08,801 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,814 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:08,826 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:08,844 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,857 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:08,867 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:08,882 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,894 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:08,895 - INFO - Processing complete: 12 successful, 0 failed
+2025-09-29 14:14:08,895 - INFO - PDF processing completed successfully!
+2025-09-29 14:14:41,612 - INFO - Starting PDF processing...
+2025-09-29 14:14:41,613 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD - Copy
+2025-09-29 14:14:41,615 - INFO - Found 12 PDF files in F:\TVSCS\PD_manipulation\PD - Copy and subdirectories
+2025-09-29 14:14:41,616 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD - Copy_processed
+2025-09-29 14:14:41,627 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:41,664 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:41,686 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:41,701 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:41,728 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:41,759 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:41,773 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:41,797 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:41,817 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:41,831 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:41,850 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:41,866 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:41,879 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:41,904 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:41,922 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:41,939 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:41,962 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:41,979 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:41,992 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:42,009 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:42,024 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:42,034 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:42,051 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:42,066 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:42,077 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:42,093 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:42,140 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:42,150 - INFO - Found 'KYC Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf, page 1
+2025-09-29 14:14:42,166 - INFO - Modified page 1 in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:42,180 - INFO - Successfully processed kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf -> kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:14:42,190 - INFO - Found 'KYC Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf, page 1
+2025-09-29 14:14:42,208 - INFO - Modified page 1 in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:42,223 - INFO - Successfully processed kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf -> kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:14:42,233 - INFO - Found 'KYC Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf, page 1
+2025-09-29 14:14:42,251 - INFO - Modified page 1 in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:42,265 - INFO - Successfully processed kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf -> kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:14:42,266 - INFO - Processing complete: 12 successful, 0 failed
+2025-09-29 14:14:42,267 - INFO - PDF processing completed successfully!
+2025-09-29 14:15:37,431 - INFO - Starting PDF processing...
+2025-09-29 14:15:37,431 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD - Copy
+2025-09-29 14:15:37,432 - INFO - Using clean processing method
+2025-09-29 14:15:37,435 - INFO - Found 12 PDF files in F:\TVSCS\PD_manipulation\PD - Copy and subdirectories
+2025-09-29 14:15:37,437 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD - Copy_processed
+2025-09-29 14:15:37,462 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,480 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:15:37,493 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,516 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:15:37,528 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,545 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:15:37,556 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,570 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:15:37,581 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,596 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:15:37,606 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,627 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:15:37,636 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,651 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:15:37,663 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,680 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:15:37,690 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,705 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:15:37,714 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,728 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:15:37,738 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,753 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:15:37,762 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:15:37,777 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:15:37,782 - INFO - Processing complete: 12 successful, 0 failed
+2025-09-29 14:15:37,782 - INFO - PDF processing completed successfully!
+2025-09-29 14:17:01,696 - INFO - Starting PDF processing...
+2025-09-29 14:17:01,697 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD
+2025-09-29 14:17:01,697 - INFO - Using clean processing method
+2025-09-29 14:17:01,699 - INFO - Found 3 PDF files in F:\TVSCS\PD_manipulation\PD and subdirectories
+2025-09-29 14:17:01,700 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD_processed
+2025-09-29 14:17:01,716 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:17:01,740 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-29 14:17:01,754 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:17:01,786 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-29 14:17:01,798 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-29 14:17:01,815 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-29 14:17:01,818 - INFO - Processing complete: 3 successful, 0 failed
+2025-09-29 14:17:01,819 - INFO - PDF processing completed successfully!

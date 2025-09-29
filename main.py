@@ -30,7 +30,7 @@ try:
     from reportlab.lib.colors import blue
     from reportlab.lib.units import inch
 except ImportError as e:
-    print(f"Error: Required dependencies not installed. Please run: uv sync")
+    print(f"Error: Required dependencies not installed. Please run: pip install -r requirements.txt")
     print(f"Missing dependency: {e}")
     sys.exit(1)
 
@@ -49,7 +49,7 @@ def setup_logging():
 
 def find_pdf_files(directory: Path) -> List[Path]:
     """
-    Find all PDF files in the given directory.
+    Find all PDF files in the given directory and its subdirectories.
     
     Args:
         directory: Path to the directory to search
@@ -63,8 +63,9 @@ def find_pdf_files(directory: Path) -> List[Path]:
     if not directory.is_dir():
         raise NotADirectoryError(f"{directory} is not a directory")
     
-    pdf_files = list(directory.glob("*.pdf"))
-    logging.info(f"Found {len(pdf_files)} PDF files in {directory}")
+    # Recursively find all PDF files
+    pdf_files = list(directory.rglob("*.pdf"))
+    logging.info(f"Found {len(pdf_files)} PDF files in {directory} and subdirectories")
     
     return pdf_files
 
@@ -159,16 +160,18 @@ def process_pdf(input_path: Path, output_path: Path) -> bool:
 
 def process_directory(input_dir: Path, output_dir: Optional[Path] = None) -> None:
     """
-    Process all PDF files in the input directory.
+    Process all PDF files in the input directory and its subdirectories.
+    Creates a separate processed directory with the same structure.
     
     Args:
         input_dir: Directory containing PDF files to process
-        output_dir: Directory to save processed files (defaults to input_dir/processed)
+        output_dir: Directory to save processed files (defaults to {input_dir}_processed)
     """
     if output_dir is None:
-        output_dir = input_dir / "processed"
+        # Create output directory name as {directory_name}_processed
+        output_dir = input_dir.parent / f"{input_dir.name}_processed"
     
-    # Find all PDF files
+    # Find all PDF files recursively
     pdf_files = find_pdf_files(input_dir)
     
     if not pdf_files:
@@ -179,12 +182,17 @@ def process_directory(input_dir: Path, output_dir: Optional[Path] = None) -> Non
     output_dir.mkdir(parents=True, exist_ok=True)
     logging.info(f"Output directory: {output_dir}")
     
-    # Process each PDF file
+    # Process each PDF file, preserving directory structure
     successful = 0
     failed = 0
     
     for pdf_file in pdf_files:
-        output_file = output_dir / pdf_file.name
+        # Calculate relative path from input_dir
+        relative_path = pdf_file.relative_to(input_dir)
+        output_file = output_dir / relative_path
+        
+        # Create parent directories if they don't exist
+        output_file.parent.mkdir(parents=True, exist_ok=True)
         
         if process_pdf(pdf_file, output_file):
             successful += 1

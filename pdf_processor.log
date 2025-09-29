@@ -288,3 +288,544 @@
 2025-09-27 07:21:57,247 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
 2025-09-27 07:21:57,247 - INFO - Processing complete: 3 successful, 0 failed
 2025-09-27 07:21:57,250 - INFO - PDF processing completed successfully!
+2025-09-27 14:52:49,483 - INFO - Starting PDF processing...
+2025-09-27 14:52:49,483 - INFO - Input directory: F:\TVSCS\PD_manipulation\PD - Copy
+2025-09-27 14:52:49,484 - INFO - Using clean processing method
+2025-09-27 14:52:49,485 - INFO - Found 12 PDF files in F:\TVSCS\PD_manipulation\PD - Copy and subdirectories
+2025-09-27 14:52:49,486 - INFO - Output directory: F:\TVSCS\PD_manipulation\PD - Copy_processed
+2025-09-27 14:52:49,499 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,510 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 14:52:49,517 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,528 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 14:52:49,536 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,549 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 14:52:49,558 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,570 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 14:52:49,607 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,622 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 14:52:49,633 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,650 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 14:52:49,660 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,675 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 14:52:49,710 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,723 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 14:52:49,735 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,751 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 14:52:49,760 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,774 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525164019541F3SDNH7BWVYO71.pdf
+2025-09-27 14:52:49,805 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,821 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525173416538A7CPYO5GCIJB2O.pdf
+2025-09-27 14:52:49,829 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 14:52:49,842 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250525204448458IP7VGDP6QY21O3.pdf
+2025-09-27 14:52:49,847 - INFO - Processing complete: 12 successful, 0 failed
+2025-09-27 14:52:49,847 - INFO - PDF processing completed successfully!
+2025-09-27 15:13:31,185 - INFO - Starting PDF processing...
+2025-09-27 15:13:31,185 - INFO - Input directory: F:\TVSCS\PD_manipulation\July'25
+2025-09-27 15:13:31,185 - INFO - Using clean processing method
+2025-09-27 15:13:31,188 - INFO - Found 250 PDF files in F:\TVSCS\PD_manipulation\July'25 and subdirectories
+2025-09-27 15:13:31,189 - INFO - Output directory: F:\TVSCS\PD_manipulation\July'25_processed
+2025-09-27 15:13:31,221 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,240 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3010CP0004058_SHIVNARAYAN SO HARIDAS_KID250701170009301OSVUOINQAY672O.pdf
+2025-09-27 15:13:31,248 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,257 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022206_Javid_KID250701190205393THYKUI216PV6WQ.pdf
+2025-09-27 15:13:31,263 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,272 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3019CP0036549_Venkatesh_KID250704141959740SGM41DS76MU6VY.pdf
+2025-09-27 15:13:31,279 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,291 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3025CP0047129_dileep  v s_KID250703104632531EWW2QTGSRUVEEH.pdf
+2025-09-27 15:13:31,298 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,306 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3025CP0047146_Sowmya_KID250703182120176O1VDPQPPFUXUBF.pdf
+2025-09-27 15:13:31,313 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,325 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3027CP0053637__KID250703170237835DKZDKBAT34OQIZ.pdf
+2025-09-27 15:13:31,332 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,347 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3028CP0025673_Rajesh_KID250703184253272BZV2PRV89ZDUJ4.pdf
+2025-09-27 15:13:31,358 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,370 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3028UT0031371_Kishor_KID2507031651349614YJMA5SSK3KWZ2.pdf
+2025-09-27 15:13:31,377 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,388 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3085CP0026702_CHANDRAKANT NARAYAN CHAVAN_KID2507041250489498SAA8RRSXL38WL.pdf
+2025-09-27 15:13:31,397 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,410 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3088CP0015653_PrabinGardia_KID250703195226818TXRFJRRMH3AVFF.pdf
+2025-09-27 15:13:31,418 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,432 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3110CP0034832_Saritha_KID250703181252153DHRT4HAIYILH2V.pdf
+2025-09-27 15:13:31,440 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,456 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3110CP0034884_YASHWANTHA  K B_KID250703191645951TUUBFA7Y2H8P3O.pdf
+2025-09-27 15:13:31,463 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,474 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in KA3110CD0306045_Sanjayranganatha_KID250703161438394QZE6IZ7UKWDOPV.pdf
+2025-09-27 15:13:31,482 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,493 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3015CP0003427_tularam  patel_KID250704142746671EVI8DXVWDG6ZDE.pdf
+2025-09-27 15:13:31,501 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,513 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000230_Umeshkashy ap_KID250704115815131USG9NRRQZNW6HQ.pdf
+2025-09-27 15:13:31,520 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,541 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0073721_akash dewalu rathod_KID2507042023473455N6ONVJEUMYGH4.pdf
+2025-09-27 15:13:31,547 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,558 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0073734_Anand_KID25070419032378158LQKUV38GXWC3.pdf
+2025-09-27 15:13:31,565 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,576 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3028CP0025677_ABHIJIT JAGDISH MUKHARJI_KID250704104513937HSU5EKBN67MPM2.pdf
+2025-09-27 15:13:31,583 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,595 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0070371_amin miya majeed miya deshmukh_KID250704145035046CNTK946DMTHGI9.pdf
+2025-09-27 15:13:31,603 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,614 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0063805_Uday_KID250704190832153X6AYRZGJXIZG28.pdf
+2025-09-27 15:13:31,621 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,630 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022188_MOHAMMAD  TASLEEM_KID2507041558002587TWKOSJNYBSTEY.pdf
+2025-09-27 15:13:31,636 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,645 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0036974_GAUTAM BANDU KHARAT_KID250704134942460127T6UVP2TNDH5.pdf
+2025-09-27 15:13:31,651 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,661 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3075CP0034853_Jamiramakrishna_KID2507041841140485A5EOKVP455CIN.pdf
+2025-09-27 15:13:31,667 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,679 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3085CP0026598_ganesh dipak tapkire_KID25070414433988299ZO6A4GHT32P6.pdf
+2025-09-27 15:13:31,685 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,696 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3111CP0005563_KARROLLA  JAYANTH_KID250704135737343QU42QCR8V6C8ZE.pdf
+2025-09-27 15:13:31,702 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,713 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3116CP0002394_POLEPAKA  RAKESH_KID250704183448302CIYQBUYDQPCFJL.pdf
+2025-09-27 15:13:31,720 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,732 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047006_SHAHIDA Banu _KID250705164358698G3BDWVETSAYLCC.pdf
+2025-09-27 15:13:31,741 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,753 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3010CP0004100_Gafferkhan_KID250707155856556KDSAKHNWIIDQLK.pdf
+2025-09-27 15:13:31,761 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,773 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3011CP0009066_KULDEEP SINGH SENDHAV_KID2507052059242237OV8U1M8ACJTMX.pdf
+2025-09-27 15:13:31,780 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,791 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3015CP0003421_dinesh kumar patel_KID250705125829109YH7NQ84SX757Q7.pdf
+2025-09-27 15:13:31,798 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,811 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000243_MUKESH  SHARMA_KID250705153449010CD8IKHWNVWU11X.pdf
+2025-09-27 15:13:31,817 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,829 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0073810_VISHAL SANJAY TANDALE_KID250707123207018CR3UNDG9DPQA2H.pdf
+2025-09-27 15:13:31,835 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,846 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3019CP0036509_D  REVATHI_KID2507051516335382HD5RJMPKHCFYM.pdf
+2025-09-27 15:13:31,855 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,867 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038567_GADELKAR  SAVITHA_KID2507051645457367BEUHEOI53JDIZ.pdf
+2025-09-27 15:13:31,874 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,887 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038598_Ravisara_KID250705210024853QPNFRJ4EC2H9WO.pdf
+2025-09-27 15:13:31,894 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,906 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3024CP0036408_SHAHEEN MUDASAR PATHAYAT_KID2507071820530957MLMNC1SX2S296.pdf
+2025-09-27 15:13:31,913 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,925 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3024UT0029283_MANJUNATH  S_KID250707115513124ULYV5VKRW6K2UV.pdf
+2025-09-27 15:13:31,932 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,944 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3025CP0047269_suneetha  SUNEETHA_KID2507071237298306NIU7HXNAJAVLE.pdf
+2025-09-27 15:13:31,952 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,962 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3027CP0053731_WASHIM GAFAR SHAIKH_KID250705204343351IGNL13AH5QONKK.pdf
+2025-09-27 15:13:31,970 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,980 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0070465_Nayansingh_KID250705172554865XRESQDV39DAWDT.pdf
+2025-09-27 15:13:31,987 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:31,998 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3033CP0027449_waqar  ahamed_KID250707162926186WEGBNDAIXITTMJ.pdf
+2025-09-27 15:13:32,006 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,016 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3035UT0051032_Vipin_KID250704130238629CSFO1NO1855VAP.pdf
+2025-09-27 15:13:32,023 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,034 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3040CP0025985_MO Arif_KID250705153618592AQ4WUHVZMR9M19.pdf
+2025-09-27 15:13:32,041 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,051 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3043CP0025421_Vishal  Paswan_KID250707144226964TS851EEWG346MI.pdf
+2025-09-27 15:13:32,057 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,069 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022259_MOHD  IRFAN_KID25070520392173461CPDNQ9VFSYGM.pdf
+2025-09-27 15:13:32,075 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,085 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3054CP0091494_Dipakvarma_KID250707112525398ZFM5UCF747Y44X.pdf
+2025-09-27 15:13:32,091 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,102 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3054CP0091720_RAJU  DAS_KID250705162641219Q7HXIMDYIHW5RY.pdf
+2025-09-27 15:13:32,109 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,116 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037044_Satpal Murari Ghodake_KID250707202315290XV17PPVQ7EELST.pdf
+2025-09-27 15:13:32,123 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,136 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3064CP0020311_Jamil  khan_KID2507071657273311X99P8AHVK78OO.pdf
+2025-09-27 15:13:32,141 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,151 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3074CP0022505_Sagirkhan_KID2507071504519491TP6X8WSY5HZH5.pdf
+2025-09-27 15:13:32,158 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,170 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3110CP0034874_SHASHIKIRANA  C_KID250705151527790X7VG96JEARYMLP.pdf
+2025-09-27 15:13:32,178 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,189 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3110UT0046505_RANGASWAMY  _KID250707130222456516M6THRL8RBK3.pdf
+2025-09-27 15:13:32,197 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,210 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3111CP0005631_GOUNDLA HARISH GOUD_KID250707125846823N45F8MX8OWNQ61.pdf
+2025-09-27 15:13:32,219 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,234 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3176CP0008832_RAVI NIWARTI PATHARIKAR_KID250707121011641CEP2U2D5VEDOPH.pdf
+2025-09-27 15:13:32,241 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,249 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3210CP0002294_DHEERAJ MARUTI METE_KID250707200113126TG7IY1A5KUZW76.pdf
+2025-09-27 15:13:32,257 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,266 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in Rejected_ND_3176CP0008827_Sainathshamrawani_KID2507071806164777TSKI7TD8JAKQE.pdf
+2025-09-27 15:13:32,275 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,286 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0046975_ANJALI H J_KID2507081230311173LLKA7AYEIUSR2.pdf
+2025-09-27 15:13:32,293 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,304 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0046976_DYAMAIAH  _KID250708125338149HYR3NVJNCPH9WW.pdf
+2025-09-27 15:13:32,311 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,324 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3011CP0009132_Dharmendra  Baghel_KID250707130755885LSIF475TY8FL5D.pdf
+2025-09-27 15:13:32,333 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,345 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3015CP0003477_REENA  ROY_KID2507081650231409GPGDPHPX8VLQK.pdf
+2025-09-27 15:13:32,356 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,373 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000277_BUDHAN  Das_KID250708131539400GJKYKQBJTNQD9T.pdf
+2025-09-27 15:13:32,383 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,397 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0073778_YOGESH SANGSHETTI INDRALE_KID2507081301477793WJDXX7WCRCHV4.pdf
+2025-09-27 15:13:32,408 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,423 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038631_SHAIK  AYUB_KID250708150950663T2SJZLD49RVTPY.pdf
+2025-09-27 15:13:32,431 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,447 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3022CP0002527_SAMEER  PARUTHIYIL_KID2507081704532832KJZILZH5NZW65.pdf
+2025-09-27 15:13:32,457 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,467 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3078CP0118183_MD  AQUIL_KID250708124858926JGE3K8BM4NBWN5.pdf
+2025-09-27 15:13:32,474 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,484 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3176CP0008865_BHASKAR RAJABHAU MUNDE_KID25070812344181561X231C9ELSU5P.pdf
+2025-09-27 15:13:32,490 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,501 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3000CT0018327_KEERTHANA  V_KID250714104652771UVSTYUHSLP8PQY.pdf
+2025-09-27 15:13:32,508 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,519 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047171_SUCHITRA  K_KID250714153721891X57JA7A3XHPFBU.pdf
+2025-09-27 15:13:32,525 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,535 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3023CP0000327_NITHUL  BABU_KID250714143510213OCZMC6YBY3TJW1.pdf
+2025-09-27 15:13:32,541 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,552 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0070700_VAIBHAV YOGIRAJ GHODGA_KID250714151330183JVO9GVA2T4P1NI.pdf
+2025-09-27 15:13:32,558 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,568 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3033CP0027552_MOHD RASHID RAZA_KID250714131400434TZDWK2SWNVU42W.pdf
+2025-09-27 15:13:32,574 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,584 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0063995_GAUTAM  SINGH_KID250714132647372ENTWZZ8H4WUBJT.pdf
+2025-09-27 15:13:32,590 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,601 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0063996_Rohitkumar_KID250714112925997I7Y9MW4XAT5S11.pdf
+2025-09-27 15:13:32,607 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,617 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3043CP0025510_MITHILESH  KUMAR_KID250714144632248V9AH1DSEGK8254.pdf
+2025-09-27 15:13:32,623 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,633 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3176CP0009029_gajanan nivrati waghmare_KID250714124304669YG9UJKVA8VVGKA.pdf
+2025-09-27 15:13:32,640 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,651 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3210CP0002325_ARBAJ KHAN YUNUS KHAN PATHAN_KID250714125048253VPYE3EVQGM3CBU.pdf
+2025-09-27 15:13:32,658 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,668 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047176_KRISHNA  S_KID250715170718223ENQSO3UZ9G8OWZ.pdf
+2025-09-27 15:13:32,674 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,684 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047321_srinivasa  B S_KID250719124225910LLV8G5W5ZU13E7.pdf
+2025-09-27 15:13:32,690 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,699 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047407_santosh  kamti_KID2507241110410162RY4T6CP23R3RP.pdf
+2025-09-27 15:13:32,705 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,716 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047456_VISHWANATH  M_KID250724163056949RCK6SZXFTX7X24.pdf
+2025-09-27 15:13:32,722 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,732 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047510_Saniya  Taj_KID250730155102310Y3LZWB5NFT37SG.pdf
+2025-09-27 15:13:32,739 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,748 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047513_RAMESHA  T_KID250730113838155UJ8X7VOCUSUTYV.pdf
+2025-09-27 15:13:32,755 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,769 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047553_D  radha_KID2507281459430296HZPW7ARFP3CDQ.pdf
+2025-09-27 15:13:32,776 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,785 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047574_YADHUKUMAR M R_KID250729154302110R6EPX8FVPM6PQ9.pdf
+2025-09-27 15:13:32,792 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,803 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009UT0058149_CHANDRAKALA  G H_KID2507301433548836UGIL4LRCSJUE2.pdf
+2025-09-27 15:13:32,809 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,819 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3010UT0031884_DEEPAK  BHARTI_KID2507251538466787TXZ798MOGK9LS.pdf
+2025-09-27 15:13:32,824 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,834 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3011CP0009327_Dev  jatav_KID25071912561926263SF83X1Q2ZXI8.pdf
+2025-09-27 15:13:32,841 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,850 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3011CP0009405_BHAYYU  KHAN_KID250725112801964ZG1Z8NXZQ6Y2WM.pdf
+2025-09-27 15:13:32,857 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,868 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3011CP0009441_PRIYA  JAIN_KID2507281305396458KEY6OSTM3WG5U.pdf
+2025-09-27 15:13:32,873 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,883 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3012CP0004462_karen chaurasiya_KID250715121509540SUVH1QTVS3RU59.pdf
+2025-09-27 15:13:32,889 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,899 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3012CP0004495_bajinath  patel_KID250717121753066AGLB9DP77BBKPV.pdf
+2025-09-27 15:13:32,906 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,916 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3012CP0004618_Amit kumar vishwakarma_KID2507311623100087VXV5YTL7KTS2S.pdf
+2025-09-27 15:13:32,922 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,932 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000332_MURSALIM  MURSALIM_KID250715163552114YLRP1E2OQUVZD7.pdf
+2025-09-27 15:13:32,938 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,944 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000363_NOOR MOHD_KID250715160207471R138RS2AJWFKR6.pdf
+2025-09-27 15:13:32,952 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,962 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000367_PAPPU  R_KID250716173740740QQZN4YMU5DKKHZ.pdf
+2025-09-27 15:13:32,968 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,978 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000389_SHAMSHAD  MANSURI_KID2507211435056647RA54UDSW1BSC7.pdf
+2025-09-27 15:13:32,985 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:32,993 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000409_Ayushi  Tyagi_KID250723114947992KHP42TNZOATGJF.pdf
+2025-09-27 15:13:33,000 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,011 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000415_SHEETAL BAJPAI H_KID25072411010033853DPSSBXGR8BEK.pdf
+2025-09-27 15:13:33,017 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,027 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000421_MOHD  NAEEM_KID250724170721765AHPRZQEPAC1UTJ.pdf
+2025-09-27 15:13:33,033 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,044 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000441_NITIN  PREM_KID2507281242138136IU39GZRY8SNB8.pdf
+2025-09-27 15:13:33,049 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,060 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000442_NEETU  N_KID250728182902614KJCPL8AJFARH2W.pdf
+2025-09-27 15:13:33,066 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,077 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000453_RIZWAN T_KID250729161858241AINKJE37JAO535.pdf
+2025-09-27 15:13:33,084 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,093 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000455_AMIT  ANIL_KID250730125225263DI6BFZNBW43TLX.pdf
+2025-09-27 15:13:33,099 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,111 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3017CP0000464_SHER  KHAN_KID250731123605122AO9SDBWRMMC8G4.pdf
+2025-09-27 15:13:33,117 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,128 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074003_Anilsingh Balusingh Tak_KID2507181224107772V5E3H6YJW6ATZ.pdf
+2025-09-27 15:13:33,135 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,147 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074045_BHAUSAHEB VITTHAL POTKULE_KID250722182048210JLDCSSGCTL52RR.pdf
+2025-09-27 15:13:33,155 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,168 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074051_Surekha  Talole_KID250719183050503Y2IKXNB1DD563O.pdf
+2025-09-27 15:13:33,177 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,190 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074135_AVINASH BHAGWAN SHINDE_KID250723164415209M2BSP8ITSH8TPM.pdf
+2025-09-27 15:13:33,199 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,214 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074208_TUSHAR NARAYAN MHAJAN_KID25072911043183647AWE5DDUUFQIL.pdf
+2025-09-27 15:13:33,223 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,238 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074224.pdf
+2025-09-27 15:13:33,245 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,259 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074238_Musa Esmile Shaikh_KID250728155049320ZMYM5XEOM11DCH.pdf
+2025-09-27 15:13:33,269 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,283 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074261_ARVINDA RAJU PAWAR_KID2507291708282873UW5OUGNWC36R8.pdf
+2025-09-27 15:13:33,292 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,304 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0074273_Sandip Baban Dhobale_KID250730181456637RHXRFGCOM6VNR4.pdf
+2025-09-27 15:13:33,314 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,329 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3019CP0036694_SHAIK  SULTANA_KID250717165801961RV8NZH6W1RC5CY.pdf
+2025-09-27 15:13:33,339 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,355 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3019CP0036777_Vanipenta  Rama Mohan Reddy_KID250729152910321OTMZTTQQ1IXXCA.pdf
+2025-09-27 15:13:33,363 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,379 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038770_VANKURI SHIVA KUMAR_KID250723154158412UMFOWHBB65P3F2.pdf
+2025-09-27 15:13:33,391 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,407 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038776_PITTALA  MYTHILI_KID250724124118791WJXHQGEHDG8OYB.pdf
+2025-09-27 15:13:33,417 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,432 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038832_KAVALI  MALLESH_KID250731115842835B74RD48Y6C3URK.pdf
+2025-09-27 15:13:33,442 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,455 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038849_BULA  RAJU_KID250729181310054W7FNMK2FTN4FZX.pdf
+2025-09-27 15:13:33,463 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,475 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038859_MOHD  ABDUL SAYEED_KID2507311911263387EXY5XL5D4QG9P.pdf
+2025-09-27 15:13:33,484 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,493 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3022CP0002593_FYSAL _KID250723172325873GEXCDZBQ14XGWU.pdf
+2025-09-27 15:13:33,501 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,512 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3023CP0000181_Nazeera  Ismayil_KID250716103347531XRXDUTL8FQG4CJ.pdf
+2025-09-27 15:13:33,521 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,535 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3023CP0000335_Arun  P_KID2507151022087793EBCUADO5K56L1.pdf
+2025-09-27 15:13:33,541 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,551 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3023CP0000350_ABDUL LATHEEF ERUPPAKOTTIL PAREED_KID250716144002673OYIDLMDC3NW79C.pdf
+2025-09-27 15:13:33,558 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,569 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3023CP0000433_NIJANA  HASHIM_KID250724171331386JDC4PG4VBKFPYJ.pdf
+2025-09-27 15:13:33,577 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,590 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3024CP0036660_Jnaneshwar  Kadam_KID250718095635644MUL8VT2MNT31K6.pdf
+2025-09-27 15:13:33,599 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,615 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3024CP0036731_PRASHANT LAKKAPPA TIMMANI_KID250730152111507CQEFSYBBAEPMGU.pdf
+2025-09-27 15:13:33,623 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,636 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3024CP0036795_PRAVEEN NAMDEV PANALKAR_KID250731202052900HI5DAJHL7S8U2I.pdf
+2025-09-27 15:13:33,648 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,663 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3025CP0047834_Amavase_KID2507251751321709H7ML5TEIQVC25.pdf
+2025-09-27 15:13:33,671 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,684 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3025CP0047838_RAMESHANAYAKA  G_KID2507291559161936OSD26VPQ8MK4I.pdf
+2025-09-27 15:13:33,691 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,704 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3025CP0047915_Mufeeda  M_KID250730125905131PGG4WSR6NNQ6G8.pdf
+2025-09-27 15:13:33,711 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,724 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3025CP0047918_MANASA  S G_KID2507301239003643EX6B76SNJUTSR.pdf
+2025-09-27 15:13:33,732 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,742 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3027CP0054013_pallavi sachin sapkale_KID250721164947084A6M5OH5PFKJEUF.pdf
+2025-09-27 15:13:33,751 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,760 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3027CP0054024_IMRAN RAFIK SHAIKH_KID250723112227571WCOPF23U6KG8WV.pdf
+2025-09-27 15:13:33,768 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,778 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3027CP0054047_AZIM MAHEMUD PATHAN_KID2507281155516377XRD4A2ZLEMZR9.pdf
+2025-09-27 15:13:33,786 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,800 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3027CP0054076.pdf
+2025-09-27 15:13:33,807 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,819 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0070830_MD WASIM NASIM ANSARI_KID250717122154337LL1FB9QZKU7674.pdf
+2025-09-27 15:13:33,826 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,838 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0070879_KESHAV PRALHAD KHANDARE_KID250718135037721WP9G7F23OJVXN9.pdf
+2025-09-27 15:13:33,846 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,860 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0071178_SHEKH GUFRAN  SHEKH MAHAMAD_KID250731100707871UAM5QBIBGP88H5.pdf
+2025-09-27 15:13:33,868 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,879 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0071194_kirti milind gawai_KID2507281708318058T3L23N9Z9M4MS.pdf
+2025-09-27 15:13:33,888 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,902 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3033CP0027677_Aravaj  Khan_KID250724150223125YGPSZWD7D41ACV.pdf
+2025-09-27 15:13:33,910 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,919 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3033CP0027687_guddu  tinku_KID250724161438532M4AH5B7I4NKWK9.pdf
+2025-09-27 15:13:33,928 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,940 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3034CP0016802.pdf
+2025-09-27 15:13:33,949 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,961 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3038CP0030284_Abhisheksingh_KID2507191611142958XMRUYV3IQSRRR.pdf
+2025-09-27 15:13:33,970 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:33,981 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3038CP0030459_Nadim  Akhtar_KID250728175813663MGIIKJ7S3OYWHE.pdf
+2025-09-27 15:13:33,989 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,000 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3040CP0026361_BRIJESH KUMAR JAISWAL_KID250724145835288BZ6CD3AWP6LZ1R.pdf
+2025-09-27 15:13:34,009 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,021 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3040UT0026543_GULZAR  AHMAD_KID2507281320128743J927453534FUG.pdf
+2025-09-27 15:13:34,029 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,043 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0063978_AJEET  YADAV_KID250719100920694OHBY38PC6171IQ.pdf
+2025-09-27 15:13:34,051 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,064 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0064044_VIMLESH  KUMARI_KID250719154511611IJXSLIRB9PG8BW.pdf
+2025-09-27 15:13:34,072 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,083 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0064182_Vijay  hari_KID250731173939160E6Y8BAVVV3A9Y3.pdf
+2025-09-27 15:13:34,093 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,108 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0064220_NARESH  KUMAR_KID2507311643253353QWG362I6X8OPR.pdf
+2025-09-27 15:13:34,118 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,130 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041UT0029348_HARISH  GUPTA_KID250716114102860PUF9ZEIX9SDD7O.pdf
+2025-09-27 15:13:34,139 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,151 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3043CP0025519_mukesh  singh_KID250716145155770NGRO6SFVLMGIAG.pdf
+2025-09-27 15:13:34,158 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,169 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3043CP0025569_Vishu  Sahani_KID250724141127720S47UEMY1KLVVA9.pdf
+2025-09-27 15:13:34,178 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,189 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3051CP0037431_KHAGESWARA  MAHURIA_KID250723112754206S1BWR4YIAQK9DS.pdf
+2025-09-27 15:13:34,196 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,209 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3051CP0037465_ANANDA KUMAR SAHOO_KID250728140144835AUY76IO1XNJUS3.pdf
+2025-09-27 15:13:34,217 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,231 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022466_mukim  s_KID250715113024329HFK71CR5KO5O26.pdf
+2025-09-27 15:13:34,243 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,256 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022510_KAKUN  TYAGI_KID250716152910736M6TZBFWU1U74PI.pdf
+2025-09-27 15:13:34,265 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,276 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022528_Shanu  Abbasi_KID250719140727562HYKLZYMPTNMFKD.pdf
+2025-09-27 15:13:34,283 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,296 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022529_ARUN  P_KID250723102155456GCEVKSL95SNIX6.pdf
+2025-09-27 15:13:34,303 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,317 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022578_AKRAM  A_KID2507241558234681M3R2WFVKXTDWZ.pdf
+2025-09-27 15:13:34,324 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,334 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022598_Rajat  Saini_KID2507281228179874NEUT1CSNC1EOR.pdf
+2025-09-27 15:13:34,342 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,354 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022634_abhishek  C_KID25072915092146316QHS677LKOQ2Y.pdf
+2025-09-27 15:13:34,360 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,373 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022691_Erssad  Y_KID25073115395846491M3O85677DS1H.pdf
+2025-09-27 15:13:34,381 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,393 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3053CP0027690_Monu  Sharma_KID250725142725388PJCLVK5PSGXXTC.pdf
+2025-09-27 15:13:34,399 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,409 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3053CP0027903_Rahman  Ansari_KID250730135914512R94JF7JPKL1SWV.pdf
+2025-09-27 15:13:34,417 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,428 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3054CP0092601_SALMA  BEGUM_KID2507181050085582KQKIG39HD11WL.pdf
+2025-09-27 15:13:34,443 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,468 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3054CP0092992.pdf
+2025-09-27 15:13:34,484 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,509 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3054CP0093335_chandani  kumari_KID250728124458194B4NTIHC43YLUR6.pdf
+2025-09-27 15:13:34,522 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,540 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3054CP0093365_JAHIJ  SK_KID250728151336070QO3UV1Y126FENE.pdf
+2025-09-27 15:13:34,554 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,571 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3058CP0047929_ARVIND  KUMAR_KID25071618050400162R6Z68PQL3HHS.pdf
+2025-09-27 15:13:34,579 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,593 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3058CP0048761_MOHAMMAD  TAUFIQUE_KID250731110931920JEQGBQJE9ZSF23.pdf
+2025-09-27 15:13:34,602 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,615 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3058CP0048872_Harsh  kumar_KID250731192906917FNUH1JSNI3CFDZ.pdf
+2025-09-27 15:13:34,622 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,632 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037199_SAGAR BHAGWAN THORAT_KID250717095313760W9KPLGANZJZS6J.pdf
+2025-09-27 15:13:34,640 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,651 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037244.pdf
+2025-09-27 15:13:34,659 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,668 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037294_ANAND BABAN JAGDALE_KID250723144553462ZT9PNL6X6RV7PW.pdf
+2025-09-27 15:13:34,675 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,688 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037351_SHUBHAM RAJENDRA DESHMUKH_KID250731202819565NWPGGWQJ6S9SMS.pdf
+2025-09-27 15:13:34,695 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,710 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3064CP0020395_DEEPAK BAGHEL_KID250715144926980P2RIAFGHWEE68S.pdf
+2025-09-27 15:13:34,718 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,728 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3065CP0024330_kartik  soni_KID250719171938104S5O5IZE5USWFJD.pdf
+2025-09-27 15:13:34,735 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,746 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3065CP0024359_SAURABH VERMA_KID250717163719170FZ3HN8UFIVMSPM.pdf
+2025-09-27 15:13:34,755 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,766 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3074CP0022675_Ikrama_kyc_report_KID250716160400824QWZDCLXSVTSF69.pdf
+2025-09-27 15:13:34,774 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,786 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3074CP0022683_SONAM  ALVI_KID2507151803045836BRNJUB231GXJC.pdf
+2025-09-27 15:13:34,794 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,807 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3074CP0022714_Furkan  nafis_KID250718173513235LPOAZDBKDBKPXN.pdf
+2025-09-27 15:13:34,814 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,826 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3074CP0022799_ruby  parveen_KID250724171118631ZVBG2377YICTUY.pdf
+2025-09-27 15:13:34,834 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,847 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3074CP0022837_Dilshad  M_KID250728113631429S8NAJ89PV71AWT.pdf
+2025-09-27 15:13:34,854 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,866 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3075CP0034989_SARAGADA BHAVANI KANAKA REDDY_KID250723151154783UWZL4XSWYESQZZ.pdf
+2025-09-27 15:13:34,874 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,886 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3075CP0034991_PITTA  APPALARAJU_KID250724113121801TBQAMHCERGVX3P.pdf
+2025-09-27 15:13:34,893 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,905 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3075CP0035025.pdf
+2025-09-27 15:13:34,914 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,925 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3078CP0119902_TULI RANA DUTTA_KID25073012174322719G3EIZEVBPFYG.pdf
+2025-09-27 15:13:34,932 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,944 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3085CP0026783_RAHUL MAHADEV CHAVAN_KID250716145906483VVPI9W9MJ5S4ZH.pdf
+2025-09-27 15:13:34,952 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,966 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3085CP0026825_Rushikesh Shankar More_KID250718100858657K2GNB8PB2W57MV.pdf
+2025-09-27 15:13:34,972 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:34,984 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3085CP0026838_Dhanaji Vasudeo Shinde_KID250724115311638XWWF1SUN7PX6Y9.pdf
+2025-09-27 15:13:34,991 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,003 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3085CP0026847.pdf
+2025-09-27 15:13:35,010 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,022 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3085CP0026917_PRADIP SATISH KADAM_KID250730151235781B5JMN8TRGMV3SX.pdf
+2025-09-27 15:13:35,029 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,043 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3088CP0015840_SHANKARESWAR  ROUT_KID250716120342754ULGLDAKXJOW8W1.pdf
+2025-09-27 15:13:35,053 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,065 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3088CP0015861_GOBARDAN  DANSANA_KID2507191520059088TC6LCVTLBI7Z5.pdf
+2025-09-27 15:13:35,073 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,086 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3088CP0015981_RAJKUMAR  JAGAT_KID250731175823917XGMPAKRWRX1JQ3.pdf
+2025-09-27 15:13:35,094 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,106 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3107CP0003065_Maddiboyina  Jhansi_KID250729093719657UMO3RGABCBQ25C.pdf
+2025-09-27 15:13:35,114 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,124 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3110CP0035163_LIYAKATH PASHA A_KID2507231602547894LPIIKIYCA7API.pdf
+2025-09-27 15:13:35,131 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,141 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3110CP0035240_MALLIKARJUNA  M_KID250729151356725P5Q8A6ZUR9JBGK.pdf
+2025-09-27 15:13:35,148 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,158 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3111CP0005944_M  NARSIMHA_KID250728101418685CBFS3RWPGOJA1O.pdf
+2025-09-27 15:13:35,167 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,179 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3116CP0002503_EDLA HARINATH_KID250723175212523CT38C41JPZXF5B.pdf
+2025-09-27 15:13:35,187 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,200 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3116CP0002507.pdf
+2025-09-27 15:13:35,208 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,222 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3116CP0002519_IMMAGANI  SHRUTHI_KID250730155853499GGX3BONYTMT9S6.pdf
+2025-09-27 15:13:35,231 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,248 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3117CP0003459_PALIKA  DURGABHAVANI_KID250715181943487D3NB3R2QYXR6EX.pdf
+2025-09-27 15:13:35,256 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,268 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3146CP0002460_MANNALA  Renuka_KID2507241818480066BMM6MSECNN33W.pdf
+2025-09-27 15:13:35,276 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,287 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3164CP0000004_akhilesh  kumar_KID250728165029301RIH9FUPOO1XCL2.pdf
+2025-09-27 15:13:35,295 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,316 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3164CP0000022_AKRAM  M_KID25072910163071218E24ZJNOT6YIM.pdf
+2025-09-27 15:13:35,322 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,332 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3164CP0000030_RUPKISHOR  S_KID250729124129189AMVU6SEAILVG1T.pdf
+2025-09-27 15:13:35,340 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,351 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3164CP0000041_HARSWARUP  RAMPAL_KID250729125659634FXZVTTSM75SOJC.pdf
+2025-09-27 15:13:35,358 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,371 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3164CP0000052_SARVESH  r_KID250731105207299LYW1FCPVIT597A.pdf
+2025-09-27 15:13:35,379 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,390 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3164CP0000056_DEEPAK  KUMAR_KID250730170523671L49E4EGZZX5BS1.pdf
+2025-09-27 15:13:35,399 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,413 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3164CP0000060_Meraj Ahamad_KID250731113300899C57BR5BACLCBXH.pdf
+2025-09-27 15:13:35,420 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,434 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3176CP0008955_DAREKAR JALINDAR HARIBHAU_KID250715123120188SBJMRT3UMYHRFZ.pdf
+2025-09-27 15:13:35,440 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,452 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3176CP0009061_abhijit shrimant gore_KID2507151829326538UV9BM8O9Q7FVE.pdf
+2025-09-27 15:13:35,460 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,473 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3176CP0009279_SHIVAM VITTHAL LINGPUJE_KID250728161448377XI5R8QJ536GQON.pdf
+2025-09-27 15:13:35,480 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,490 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3176CP0009301_VINOD SAMBHAJIRAO JAVALE_KID250730100529971EH9ANMO6G4Y5HR.pdf
+2025-09-27 15:13:35,498 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,510 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3208CP0016669_Akbar_KID250728182621431M2XUSK33V92ANB.pdf
+2025-09-27 15:13:35,517 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,528 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in Ankushmarutibhojane_KID250721150217150WP6ZOMM4SUX2EB.pdf
+2025-09-27 15:13:35,536 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,548 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250728162752264E37TK5IFVTMGD7.pdf
+2025-09-27 15:13:35,556 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,569 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3015CP0003514_deepak kumar yadav_KID250712163616288Y1MIO7Q4TDSMET.pdf
+2025-09-27 15:13:35,577 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,588 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0070673_FIROZ  KHAN_KID250712141237632X5B1J3E389UDZL.pdf
+2025-09-27 15:13:35,595 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,608 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3029CP0070715_UMESH KUMAR HARIJAN_KID250712134933316T8UQOK1OY2FLTC.pdf
+2025-09-27 15:13:35,616 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,629 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3040CP0026156_Varun Kumar Soni_KID250712143510567F89OJJJA6DJU2G.pdf
+2025-09-27 15:13:35,637 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,649 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022366_RAJKUMAR  ATAR SINGH_KID2507121403392798PEXP7HAJTGYJB.pdf
+2025-09-27 15:13:35,656 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,668 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3052CP0022372_BILAL  choudhary_KID250712174636588MFMD9QL6977NFE.pdf
+2025-09-27 15:13:35,676 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,689 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3054CP0092201_ghaus  alam_KID250712124656765BTNFYWSA4VNTQ4.pdf
+2025-09-27 15:13:35,697 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,708 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037072_Suresh  Chavan_KID2507121220571533HRHTMJ95WC6TM.pdf
+2025-09-27 15:13:35,716 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,727 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037079_ravikiran bhaskarrao jadhav_KID250712165607202YK72R2K6RZFZZB.pdf
+2025-09-27 15:13:35,734 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,745 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3009CP0047034_SAVITHA  V_KID250709182053209J5E6KYWNM3OGWP.pdf
+2025-09-27 15:13:35,752 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,766 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018CP0073863_MANOJ  ALHAT_KID250710160538289RP9WLUDT995OZ7.pdf
+2025-09-27 15:13:35,775 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,788 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3018UT0052171_SUNIL  RAJENDRA PANSARE_KID250709141319056MZSB9AB7TM46A1.pdf
+2025-09-27 15:13:35,795 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,806 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038579_THARA  SONWAL_KID250709145306657HCJGICGKFQVA4Y.pdf
+2025-09-27 15:13:35,815 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,827 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021CP0038639_SHADA MASTHAN BABU_KID250710165759786V3I4Q31JZKTVMS.pdf
+2025-09-27 15:13:35,836 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,849 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3021UT0042224_MOHAMMED  KHAJA FAREEZUDDIN_KID250709151256046B5QTCZBTJYMXVI.pdf
+2025-09-27 15:13:35,857 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,869 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3022CP0002542_AYYOOB  CK_KID250711103354200QZ218H4K992B2U.pdf
+2025-09-27 15:13:35,877 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,890 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3027CP0053840_CHAUDHARI JITESH HIRALAL_KID250710165530821GWXNX3XQ69LF9S.pdf
+2025-09-27 15:13:35,897 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,909 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3028CP0025744_JYOTI JON THOMAS_KID250710180051248T23W3YGXSRFLZD.pdf
+2025-09-27 15:13:35,918 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,932 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3040CP0026081_NEELAM  _KID250709194605291WHVGQG3AE14CO6.pdf
+2025-09-27 15:13:35,941 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,951 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3040CP0026104_Dharm  pal_KID250711145430477PTY96CMFSK7WNP.pdf
+2025-09-27 15:13:35,957 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,970 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3041CP0063862_Yogendra  Kumar_KID250711133134995DXIFRXFVATZM3M.pdf
+2025-09-27 15:13:35,977 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:35,988 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3051CP0037018_Narendra  Mohanty_KID250711174649363VN7WOAQ2AKZ77C.pdf
+2025-09-27 15:13:35,995 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,009 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3058CP0047552_AVADHESH  kumar_KID250711122140615PKHLT72AM1NVFT.pdf
+2025-09-27 15:13:36,017 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,029 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037063_SADASHIV NIVRUTTI JADHAV_KID250710161748790PFW8PGC6XMUVWD.pdf
+2025-09-27 15:13:36,036 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,048 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3061CP0037067_YASMIN AYUB MULLA_KID250712115703160IEXX5YNJ4MENZO.pdf
+2025-09-27 15:13:36,056 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,074 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3074CP0022574_IRFAN _KID250709174244137DTBG48YAGED5UW.pdf
+2025-09-27 15:13:36,083 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,095 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3075CP0034846_vavilapalli  sridhar_KID250711103937849L6YYRSAIMK2GCH.pdf
+2025-09-27 15:13:36,103 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,118 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3075CT0014343_MANUKONDA  VIJAYA KUMAR_KID250709113933394ALLDYBRQTGXK14.pdf
+2025-09-27 15:13:36,125 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,139 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in 3208CP0015638_Neha Saha_KID250711171518212WRI5DD5KNGGPDW.pdf
+2025-09-27 15:13:36,149 - INFO - Found 'KYC Report' with font: Times-Bold, size: 25.0
+2025-09-27 15:13:36,161 - INFO - Successfully replaced 'KYC Report' with 'PD Report' in kyc_report_KID250711103937849L6YYRSAIMK2GCH.pdf
+2025-09-27 15:13:36,165 - INFO - Copied non-PDF file: July'25_Q4_Decile9_Base.xlsx
+2025-09-27 15:13:36,168 - INFO - Copied non-PDF file: July'25_Tracker_VideoPD.xlsx
+2025-09-27 15:13:36,172 - INFO - Copied non-PDF file: RE_ Video PD required.msg
+2025-09-27 15:13:36,204 - INFO - Processing complete: 250 successful, 0 failed
+2025-09-27 15:13:36,204 - INFO - PDF processing completed successfully!
